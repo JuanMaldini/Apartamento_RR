@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # PackageProject
 PackageProject/*
+
+# PixelStreaming
+Samples/*
