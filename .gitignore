@@ -78,3 +78,6 @@ PackageProject/*
 
 # PixelStreaming
 Samples/*
+
+# Exclude AdvancedCameraMode
+Content/AdvancedPhotoMode
