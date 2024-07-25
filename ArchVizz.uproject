@@ -16,10 +16,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "USDImporter",
-			"Enabled": true
-		},
-		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
 		},
@@ -30,20 +26,6 @@
 		{
 			"Name": "PixelStreaming",
 			"Enabled": true
-		},
-		{
-			"Name": "AppleProResMedia",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
-			"Name": "AppleProResDecoderElectra",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
 		},
 		{
 			"Name": "CesiumForUnreal",
@@ -89,6 +71,18 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "AppleMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleImageUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
 		}
 	]
 }
