@@ -12,15 +12,7 @@
 			]
 		},
 		{
-			"Name": "DatasmithImporter",
-			"Enabled": true
-		},
-		{
 			"Name": "HDRIBackdrop",
-			"Enabled": true
-		},
-		{
-			"Name": "SunPosition",
 			"Enabled": true
 		},
 		{
@@ -28,61 +20,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "CesiumForUnreal",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/87b0d05800a545d49bf858ef3458c4f7",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux",
-				"Android",
-				"IOS"
-			]
-		},
-		{
-			"Name": "GPULightmass",
+			"Name": "MovieRenderPipeline",
 			"Enabled": true
-		},
-		{
-			"Name": "OpenXR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Android",
-				"VisionOS"
-			]
-		},
-		{
-			"Name": "OpenXREyeTracker",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Android"
-			]
-		},
-		{
-			"Name": "OpenXRHandTracking",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Android",
-				"VisionOS"
-			]
-		},
-		{
-			"Name": "AppleMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "AppleImageUtils",
-			"Enabled": false
-		},
-		{
-			"Name": "AvfMedia",
-			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
