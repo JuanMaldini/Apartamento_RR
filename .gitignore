@@ -86,4 +86,4 @@ Content/AdvancedPhotoMode
 Houdini-ApartamentoRR/backup/
 
 # Ignorar todas las subcarpetas dentro de 'geo'
-Houdini-ApartamentoRR/geo/*/
+Houdini-ApartamentoRR/geo/
