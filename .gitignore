@@ -82,5 +82,8 @@ Samples/*
 # Exclude AdvancedCameraMode
 Content/AdvancedPhotoMode
 
-# PackageProject
-Plugins/*
+# Ignorar la carpeta backup dentro de Houdini-ApartamentoRR
+Houdini-ApartamentoRR/backup/
+
+# Ignorar todas las subcarpetas dentro de 'geo'
+Houdini-ApartamentoRR/geo/*/
